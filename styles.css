@@ -1,0 +1,165 @@
+/* CSS Document */
+body {
+  background:#000000;
+  color:#FFFFFF;
+  font: x-small "Trebuchet MS", Trebuchet, Verdana, Sans-serif;
+  font-size:small;
+  font-size:small;
+  text-align: center;
+  background-image: url(images/disc-jockey_fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position:top;
+  margin:0;
+  }
+a:link {
+  color:#FFCC00;
+  text-decoration:none;
+  }
+a:visited {
+  color:#FFCC00;
+  text-decoration:none;
+  }
+a:hover {
+  color:#FFCC00;
+  text-decoration:underline;
+}
+a img {
+  border-width:0;
+  }
+h1{margin:0;
+}
+h2{margin:0;
+}
+h3{margin:0;
+}
+p{margin:0;
+}
+/* Contenido
+----------------------------------------------- */
+#outer-wrapper {
+  width: 770px;
+  margin:0 auto;
+  padding:2px;
+  text-align:left;
+  font:"Trebuchet MS";
+  }
+#header {
+  width:765px;
+  height:83px;
+  margin:0px;
+  border:0px solid #000000;
+  }
+#main {
+  width: 765px;
+  float: left;
+  word-wrap: break-word;
+  overflow: hidden;  
+  margin-top:8px;
+  margin-left:8px;
+  }
+#contenido {
+	width: 765px;
+	float: left;
+	word-wrap: break-word;
+	overflow: hidden;
+	margin-top:8px;
+	margin-left:8px;
+	padding-right: 0px;
+	padding-left: 0px;
+	z-index: 10;
+	padding-bottom: 0px;
+	MARGIN: 0px;
+	WIDTH: 133px;
+	TEXT-INDENT: -8000px;
+	PADDING-TOP: 0px;
+	POSITION: absolute;
+	left: 902px;
+	top: 94px;
+	visibility:hidden;
+  }
+/* 
+#sidebar {
+  width: 0px;
+  float: right;
+  word-wrap: break-word; 
+  overflow: hidden;     
+} */
+#footer {
+  width:765px;
+  clear:both;
+  margin:0 auto;
+  padding-top:2px;
+  line-height: 1.6em;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  text-align: center;
+  font-size:11px;
+}
+
+/* Titulos
+----------------------------------------------- */
+
+h2 {
+  margin:1.5em 0 .75em;
+  font:"Trebuchet MS";
+  line-height: 1.4em;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#000000;
+}
+
+/* Botones
+----------------------------------------------- */
+ul {
+  	list-style:none;
+	margin:0;	
+	padding:0;
+	}
+ul li {
+	padding:0;	
+	float:left;
+	}
+ul li a {
+	display:block;	
+	width:77px;	
+	height:83px;
+	text-decoration:none;
+	}
+ul li a:hover {
+	background-position:bottom;
+	}
+ul li a span {
+	display:none; 
+	}
+#nav-logo {
+	background-image:url(images/golden-guns_logo.jpg);
+	width:196px;
+	}
+#nav-quienes {
+	background-image:url(images/b_quienes-somos.jpg);
+	}
+#nav-clientes {	
+	background-image:url(images/b_clientes.jpg);
+	}
+#nav-equipos {	
+	background-image:url(images/b_equipos.jpg);
+	}
+#nav-eventos {	
+	background-image:url(images/b_eventos.jpg);
+	}
+#nav-shows {	
+	background-image:url(images/b_shows.jpg);
+	}
+#nav-ambientacion {	
+	background-image:url(images/b_ambientacion.jpg);
+	}
+#nav-contacto {	
+	background-image:url(images/b_contacto.jpg);
+	}
+.ccl{
+font-size:10px;
+color:#cccccc;
+font-weight:lighter;
+text-decoration:none;
+}

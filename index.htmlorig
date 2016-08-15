@@ -1,0 +1,14 @@
+<HTML>
+  <Body>
+    <table width=100% border=0 cellspacing=0>
+      <tr><td align=center><img src=dattatec.jpg width="158" height="120"></td></tr>
+      <tr><td align=center><font face="Verdana, Helvetica, Arial, Sans Serif" size=2>
+        Si Usted est&aacute; viendo esta p&aacute;gina, es porque su sitio ha sido configurado correctamente.
+	<br>El paso siguiente es proceder a enviar sus archivos v&iacute;a FTP.
+	Para hacerlo, puede consultar nuestras <a href="http://ar.dattatec.com/?home=faq" target=_blank>FAQ</a> o 
+	nuestros <a href="http://ar.dattatec.com/?home=tutoriales" target=_blank>tutoriales</a>.
+	<br><br>Muchas gracias por contratar los servicios de Dattatec Hosting Solutions.</td>
+      </tr>
+    </table>
+  </body>
+</HTML>

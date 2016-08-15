@@ -1,0 +1,310 @@
+/* CSS Document */
+
+BODY{color:#003366} 
+a:link{color: #33FF33; text-decoration: none;}
+a:visited    {
+	color: #0033FF;
+	text-decoration: none;
+}
+a:hover      {
+	color: #FF3333;
+	text-decoration: none;
+}
+.bar         {
+	position: absolute;
+	left: 57px;
+	top: 146px;
+	width: 530px;
+	height: 
+               20px;
+	background-color: #003366;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	font-family: Verdana;
+	font-size: 10pt;
+	background-image:  url(../image/barra1.gif);
+	background-position: left center;
+	color: #0033FF;
+}
+.menu        {
+	position: absolute;
+	width: 80;
+	height: 47px;
+	background-color: #003366;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	top: 21px;
+	font-family: verdana;
+	font-size: 8pt;
+	background-image:  url(../image/menu2.gif);
+	line-height: 13pt;
+	vertical-align: top;
+	white-space: pre;
+	cursor: crosshair;
+}
+.menu1       {
+	position: absolute;
+	width: 80px;
+	height: 47px;
+	background-color: #003366;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	top: 21px;
+	font-family: verdana;
+	font-size: 8pt;
+	background-image:  url(../image/menu2.gif);
+	line-height: 13pt;
+	vertical-align: top;
+}
+.titulo1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-style: normal;
+
+}
+.detalle1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-color: #003366;
+	color: #003399;
+	margin-left: 5pt;
+	margin-right: 10pt;
+	margin-bottom: 0pt;
+	margin-top: 5pt;
+}
+.detalle2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #003399;
+	margin-left: 10pt;
+	margin-right: 10pt;
+	margin-top: 00pt;
+	margin-bottom: 0pt;
+}
+.titulo2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-color: #003366;
+	color: #003399;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.lista-etalle2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #003399;
+	margin-right: 5pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	list-style-position: outside;
+	list-style-type: none;
+	list-style-image: url(../image/azul_dot.gif);
+	margin-left: 0pt;
+	left: 0pt;
+	text-align: left;
+}
+.bordes {
+	border: 1px outset #CC6633;
+}
+.texefect {
+	font-family: Tahoma;
+	font-size: small;
+	color: #CC6633;
+	text-decoration: blink;
+}
+.empresa {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #FF3333;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 0pt;
+}
+.lista-etalleemp {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #003399;
+	margin-right: 5pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	list-style-position: outside;
+	list-style-type: none;
+	list-style-image: url(../image/azul_dot.gif);
+	margin-left: 0pt;
+	text-indent: 0pt;
+	left: 0pt;
+	line-height: 13pt;
+}
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #FF3333;
+}
+.footer1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #FF3333;
+}
+.footer2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #FF3333;
+}
+.titulo1soft {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-style: normal;
+	color: #999900;
+}
+.detalle1soft {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-color: #003366;
+	color: #003399;
+	margin-left: 5pt;
+	margin-right: 10pt;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+}
+.bordessoft {
+	border: 1px inset #999933;
+}
+.detalle1tabla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	font-color: #003366;
+	color: #003399;
+	margin-left: 0pt;
+	margin-right: 5pt;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+}
+.listanum {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-color: #003366;
+	color: #003399;
+	margin-left: 5pt;
+	margin-right: 10pt;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	list-style-position: outside;
+	list-style-type: decimal;
+	text-align: left;
+}
+.listaletra {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-color: #003366;
+	color: #003399;
+	margin-left: 20pt;
+	margin-right: 10pt;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	list-style-position: outside;
+	list-style-type: lower-alpha;
+	text-align: left;
+}
+.menu2 {
+	position: absolute;
+	width: 120px;
+	height: 170px;
+	background-color: #003366;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	top: 21px;
+	font-family: verdana;
+	font-size: 8pt;
+	background-image:  url(../image/menu3.gif);
+	line-height: 13pt;
+	vertical-align: top;
+	z-index: 1;
+
+}
+.bar2 {
+color: #0033FF; position: absolute; left: 35px; top: 144px; width: 570px; height: 
+21px; background-color: #000080; background-repeat: repeat; 
+               background-attachment: scroll; font-family: Verdana; 
+               font-size: 10pt; background-image:  url(../image/barra.gif); 
+               text-decoration: none; background-position: left center
+}
+.titulo1tec {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-style: normal;
+	color: #6699CC;
+	text-decoration: bold;
+}
+.detalle3 {
+	font-family: Tahoma;
+	font-size: 9px;
+	color: #FF3333;
+	margin-left: 10pt;
+	margin-right: 10pt;
+	margin-top: 00pt;
+	margin-bottom: 0pt;
+}
+.detalle4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #003399;
+	margin-left: 10pt;
+	margin-right: 10pt;
+	margin-top: 00pt;
+	margin-bottom: 0pt;
+	text-decoration: underline;
+}
+.detalle2input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	border: 1px double #96BC3D;
+	clip:  rect(5px auto 5px auto);
+	line-height: 9pt;
+
+
+
+
+}
+.detalle2cont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #006633;
+	background-position: center;
+	line-height: 10pt;
+	margin-left: 10pt;
+
+
+
+}
+.detalle2form {
+	color: #333333;
+	border: 1px double #96BC3D;
+	clip:  rect(5px auto 5px auto);
+}
+.detalle3input {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #333333;
+	border: 1px double #CC0000;
+	vertical-align: middle;
+	clip:  rect(5px auto 5px auto);
+	line-height: 9pt;
+}
+.menu3 {
+
+	position: absolute;
+	width: 86px;
+	height: 47px;
+	background-color: #003366;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	top: 21px;
+	font-family: verdana;
+	font-size: 8pt;
+	background-image:  url(../image/menu4.gif);
+	line-height: 13pt;
+	vertical-align: top;
+}
